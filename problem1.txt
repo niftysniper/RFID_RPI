@@ -1,0 +1,3 @@
+problem 1 solution:
+
+we have 3 loops for a, b and c. a starts from 1 to the limit (here 1000), b starts from a to limit and c starts from b to limit since a < b < c. Now , we check the condition if it satisfies the condition a2 + b2 = c2 we add them in the list of Pythagorean triplets. Now we sum all the triplets and filter out those whose sum is more than 1000 and get that sum which occurs for the maximum time.
